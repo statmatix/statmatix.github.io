@@ -813,7 +813,7 @@ position: fixed;
 }
 .mainimgp,
 .list,
-.bannerr11,.imgClient2, .formobo{
+.bannerr11,.imgClient2, .formobo,.imgs{
   display: none;
   visibility: hidden;
 }
